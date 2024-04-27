@@ -19,7 +19,7 @@ su – stack112
 ## step 4
 
 ```
-git clone https://opendev.org/openstack/devstack -b stable/ussuri
+git clone https://opendev.org/openstack/devstack -b stable/2023.1
 ```
 
 ## step 5
